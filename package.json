@@ -1,0 +1,10 @@
+{
+  "name": "ci-cd-github-pages-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint js/"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
